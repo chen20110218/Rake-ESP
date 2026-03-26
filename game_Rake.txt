@@ -314,14 +314,15 @@ local SETTINGS = {
     SCAN_INTERVAL = 5,
     TRACER_FOR_ENEMIES = true,
     
-    HIGHLIGHT_DISABLE_DISTANCE = 4  
+    HIGHLIGHT_DISABLE_DISTANCE =
+    4  
 }
 
 -- ===== 名称映射表 =====
 local NAME_MAPPING = {
     -- 玩家名称映射
-    ["kswyttkx888"] = "👑诺亚本人👑",
-    ["WCsge_d"] = "🗡保镖一号",
+    ["qiaoyanbo12"] = "👑诺亚本人👑",
+    ["WCsge"] = "🗡保镖一号",
     ["HYYNO1"] = "诺亚右护法🗡",
     ["dreamfsws"] = "鸭蛋重锤",
     ["yufc276"] = "瓦学弟😋",
